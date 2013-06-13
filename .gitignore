@@ -1,5 +1,4 @@
 *.pyc
 *.so
-imusim/maths/*.c
 build
 docs/build
